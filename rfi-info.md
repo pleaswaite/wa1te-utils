@@ -7,7 +7,7 @@
 
  * [K9YC's slide presentation on station grounding and RFI](http://k9yc.com/GroundingAndAudio.pdf)
 
- * [The contesting.com RFI mailing list archives] (http://lists.contesting.com/pipermail/rfi/)
+ * [The contesting.com RFI mailing list archives](http://lists.contesting.com/pipermail/rfi/)
 
  * [The ARRL Manual on Grounding and Bonding](https://www.arrl.org/shop/Grounding-and-Bonding-for-the-Radio-Amateur/)
 
@@ -23,4 +23,4 @@
 
  * [Motorola's gold standard document on grounding](https://sites.auburn.edu/admin/facilities/spw-bid-calendar/11-150%20AU%20Regional%20Airport-Construct%20a%20Self-Supporting%20Radio%20Tower/Project%20Documents/1/Motorola_R56_2005_manual.pdf)
 
- * [MIT's document on eliminating ground loops] (http://web.mit.edu/jhawk/tmp/p/EST016_Ground_Loops_handout.pdf)
+ * [MIT's document on eliminating ground loops](http://web.mit.edu/jhawk/tmp/p/EST016_Ground_Loops_handout.pdf)
