@@ -24,3 +24,7 @@
  * [Motorola's gold standard document on grounding](https://sites.auburn.edu/admin/facilities/spw-bid-calendar/11-150%20AU%20Regional%20Airport-Construct%20a%20Self-Supporting%20Radio%20Tower/Project%20Documents/1/Motorola_R56_2005_manual.pdf)
 
  * [MIT's document on eliminating ground loops](http://web.mit.edu/jhawk/tmp/p/EST016_Ground_Loops_handout.pdf)
+
+ * [Understanding the NEC code section regarding antennas](http://www.mikeholt.com/mojonewsarchive/NEC-HTML/HTML/Article-810-Radio-and-Television-Equipment-II~20050522.php)
+ 
+ * [NEC Code, 810 is relevant section, requires free login](https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=70)
