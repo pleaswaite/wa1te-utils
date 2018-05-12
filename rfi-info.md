@@ -7,6 +7,10 @@
 
  * [K9YC's slide presentation on station grounding and RFI](http://k9yc.com/GroundingAndAudio.pdf)
 
+ * [K9YC's article on killing receive noise](http://k9yc.com/KillingReceiveNoise.pdf)
+
+ * [K9YC's presentation on killing receive noise](http://k9yc.com/KillingRXNoiseVisalia.pdf)
+
  * [The contesting.com RFI mailing list archives](http://lists.contesting.com/pipermail/rfi/)
 
  * [The ARRL Manual on Grounding and Bonding](https://www.arrl.org/shop/Grounding-and-Bonding-for-the-Radio-Amateur/)
