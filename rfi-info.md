@@ -35,4 +35,8 @@
  * [ON4WW's page on seeking and destroying RFI sources](http://www.on4ww.be/emi-rfi.html)
 
  * [G3TXQ's page on common-mode choke impedances](http://karinya.net/g3txq/chokes/)
+ 
+ * [ARRL's 'Sounds of RFI' Collection](http://www.arrl.org/sounds-of-rfi)
+ 
+ * [The ARRL RFI Info Page (Contains links to other resources](http://www.arrl.org/radio-frequency-interference-rfi)
 
