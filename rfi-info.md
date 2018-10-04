@@ -38,5 +38,5 @@
  
  * [ARRL's 'Sounds of RFI' Collection](http://www.arrl.org/sounds-of-rfi)
  
- * [The ARRL RFI Info Page (Contains links to other resources](http://www.arrl.org/radio-frequency-interference-rfi)
+ * [The ARRL RFI Info Page (Contains links to other resources)](http://www.arrl.org/radio-frequency-interference-rfi)
 
