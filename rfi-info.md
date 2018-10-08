@@ -15,6 +15,8 @@
  * [NEC Code, 810 is relevant section, requires free login](https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=70)
 
  * [K9YC's slide presentation on station grounding and RFI](http://k9yc.com/GroundingAndAudio.pdf)
+ 
+ * [KT9OM's discussion on lightning protection](http://www.iceradioproducts.com/thorshammer.htm#top%20of%20page)
 
  ## RFI
 
