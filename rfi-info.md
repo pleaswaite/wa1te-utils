@@ -2,8 +2,6 @@
 
  * [The ARRL Manual on Grounding and Bonding](https://www.arrl.org/shop/Grounding-and-Bonding-for-the-Radio-Amateur/)
  
- * [W8JI's site on lightning grounds](http://www.w8ji.com/ground_systems.htm)
-
  * [US Military's guidelines on grounding and bonding](http://www.repeater-builder.com/antenna/pdf/mil-hdbk-419a.pdf)
 
  * [Motorola's gold standard document on grounding](https://sites.auburn.edu/admin/facilities/spw-bid-calendar/11-150%20AU%20Regional%20Airport-Construct%20a%20Self-Supporting%20Radio%20Tower/Project%20Documents/1/Motorola_R56_2005_manual.pdf)
@@ -16,7 +14,12 @@
 
  * [K9YC's slide presentation on station grounding and RFI](http://k9yc.com/GroundingAndAudio.pdf)
  
+ 
+ ## Lightning
+ 
  * [KT9OM's discussion on lightning protection](http://www.iceradioproducts.com/thorshammer.htm#top%20of%20page)
+ 
+ * [W8JI's site on lightning grounds](http://www.w8ji.com/ground_systems.htm)
 
  ## RFI
 
