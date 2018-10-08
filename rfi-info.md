@@ -20,6 +20,8 @@
  * [KT9OM's discussion on lightning protection](http://www.iceradioproducts.com/thorshammer.htm#top%20of%20page)
  
  * [W8JI's site on lightning grounds](http://www.w8ji.com/ground_systems.htm)
+ 
+ * [Polyphaser's book on lightning protection and station grounds](http://www.radio2way.net/Polyphaser%20Guide.pdf)
 
  ## RFI
 
